@@ -17,9 +17,4 @@ By mastering the concepts illustrated here, I aim to write clean, maintainable, 
 ## Future Plans
 While this project serves as a foundation, I plan to integrate these OOP principles into more complex systems, especially as I delve deeper into database management and data manipulation tasks in my role.
 
-## Acknowledgements
-Special thanks to everyone who provided guidance, especially the team at OpenAI for their invaluable assistance and feedback.
 
----
-
-Feel free to reach out if you have any questions or would like to collaborate on future projects!
